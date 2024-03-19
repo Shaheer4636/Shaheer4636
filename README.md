@@ -11,7 +11,8 @@ Skills: Kubernetes | Docker | Ansible | Terraform | Kubeflow | Vuejs | Jenkins
 - 📫 How to reach me: muhammadshaheer4636@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shaheer4636)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammadshaheersiraj//)  
+<a href="https://github.com/https://github.com/Shaheer4636"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="filter: invert(100%);"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammadshaheersiraj//"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="filter: invert(100%);"></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shaheer4636&show_icons=true&count_private=true)  
+
 
