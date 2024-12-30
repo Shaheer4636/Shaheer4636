@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Muhammad Shaheer
 #### I am a DevOps Engineer
-![I am DevOps Engineer]
-
-DevOps expert and a passionate learner. I'm pursuing my Bachelor's degree in CS at Pakistan Institute of Engineering and Applied Sciences, where I'm also the Chairperson of the IEEE Computer Society student branch and the AWS Cloud Captain of the AWS Student Club.
 
 Skills: Kubernetes | Docker | Ansible | Terraform | Kubeflow | Vuejs | Jenkins
 
