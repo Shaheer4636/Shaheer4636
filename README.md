@@ -1,3 +1,20 @@
+## Prospect PhD Applicant — University of Virginia
+
+I am a prospective PhD applicant with a strong interest in computer systems and cloud infrastructure.
+
+### Preprint
+**A Governance-Aware, Quota-Enforced Machine Learning Facility on Kubernetes for Multi-Tenant Research Environments**  
+https://drive.google.com/file/d/15DyrDj1g03ctIj1KJVWtUB-VBPemOJdU/view
+
+### Published Research
+**How AI Helps in Education**  
+https://thecrsss.com/index.php/Journal/article/view/613
+
+### Research Interests
+- Parallel Computing  
+- Cloud Orchestration  
+- Distributed Systems
+
 
 I love automation, cloud computing, development, scripting, architecture, computer optimization, FinOps, and orchestration.
 
