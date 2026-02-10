@@ -1,6 +1,6 @@
-## Prospect PhD Applicant — University of Virginia
+## Prospect PhD Applicant 
 
-I am a prospective PhD applicant with a strong interest in computer systems and cloud infrastructure.
+I am a prospective PhD applicant with a strong interest in computer systems, distributed systems, Parallel computing and cloud infrastructure.
 
 ### Preprint
 **A Governance-Aware, Quota-Enforced Machine Learning Facility on Kubernetes for Multi-Tenant Research Environments**  
