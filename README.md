@@ -8,12 +8,12 @@ Email: muhammadshaheer4636@gmail.com
 
 ## About (current)
 
-Muhammad Shaheer is a Cloud and DevOps engineer with a strong interest in distributed systems,
+Muhammad Shaheer is a Cloud and DevOps engineer with a strong research interest in distributed systems,
 Kubernetes-based machine learning platforms, and infrastructure automation.
 He completed his Bachelor’s degree in Computer and Information Sciences from PIEAS, Islamabad,
 graduating with distinction in multiple core subjects.
 
-His work focuses on building reliable cloud-native systems using Kubernetes, AWS, and Azure,
+His work focuses on building reliable cloud-native systems using Kubernetes, Cloud Platforms,
 with an emphasis on observability, CI/CD-driven infrastructure, and governance-aware ML platforms.
 He is also involved in applied research on multi-tenant machine learning systems and resource
 management for shared research infrastructure.
@@ -37,19 +37,6 @@ management for shared research infrastructure.
 
 ---
 
-## Group
-
-I collaborate with engineers and researchers working on cloud infrastructure,
-DevOps automation, and machine learning platforms.
-My work typically involves close interaction with platform engineers,
-data scientists, and academic researchers in shared infrastructure environments.
-
-I am interested in collaborations related to:
-- Cloud-native ML platforms  
-- Kubernetes-based research infrastructure  
-- Reliability, monitoring, and observability systems  
-
----
 
 ## Publications
 
@@ -75,21 +62,6 @@ Status: Published
 
 ---
 
-## Experience (Summary)
-
-**Cloud & DevOps Engineer — AppLab Qatar**  
-Built cloud-native monitoring, CI/CD-driven infrastructure, and automated reporting pipelines
-using AWS, Azure, Kubernetes, and Terraform.
-
-**DevOps Engineer — Private US-based Company (Remote)**  
-Delivered reliable AWS infrastructure with centralized monitoring,
-disaster recovery planning, and Infrastructure-as-Code.
-
-**Research Intern — National Centre for Physics (NCP), Islamabad**  
-Worked on a multi-tenant Kubernetes-based machine learning platform with
-LDAP-backed authentication and resource management.
-
----
 
 ## Technical Skills
 
