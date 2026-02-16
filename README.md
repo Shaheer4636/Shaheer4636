@@ -3,6 +3,7 @@
 **Cloud Systems · DevOps · ML Infrastructure**  
 Islamabad, Pakistan  
 Email: muhammadshaheer4636@gmail.com  
+Phone: +923096174636
 
 ---
 
