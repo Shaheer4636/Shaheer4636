@@ -1,6 +1,6 @@
 # Muhammad Shaheer
 
-**Cloud Systems · DevOps · ML Infrastructure**  
+**Cloud Systems  · ML Infrastructure**  
 Islamabad, Pakistan  
 Email: muhammadshaheer4636@gmail.com  
 Phone: +923096174636
