@@ -1,77 +1,89 @@
 # Muhammad Shaheer
 
-**Cloud Systems  · ML Infrastructure**  
+**Cloud Systems · Distributed & Parallel Computing**  
 Islamabad, Pakistan  
-Email: muhammadshaheer4636@gmail.com  
-Phone: +923096174636
+muhammadshaheer4636@gmail.com  
++92 309 6174636  
 
 ---
 
-## About (current)
+## About
 
-Muhammad Shaheer is a Cloud and DevOps engineer with a strong research interest in distributed systems,
-Kubernetes-based machine learning platforms, and infrastructure automation.
-He completed his Bachelor’s degree in Computer and Information Sciences from PIEAS, Islamabad,
-graduating with distinction in multiple core subjects.
+I am a computer science graduate with a background in cloud systems and infrastructure engineering, and a strong interest in research-driven systems work. I completed my Bachelor’s degree in Computer and Information Sciences from the Pakistan Institute of Engineering and Applied Sciences (PIEAS), where my focus gradually shifted from application development toward understanding how large systems behave, scale, and fail.
 
-His work focuses on building reliable cloud-native systems using Kubernetes, Cloud Platforms,
-with an emphasis on observability, CI/CD-driven infrastructure, and governance-aware ML platforms.
-He is also involved in applied research on multi-tenant machine learning systems and resource
-management for shared research infrastructure.
+My work and research interests lie in distributed systems, orchestration layers, and parallel computing, particularly in the context of shared and multi-tenant computing environments. I am interested in how system design decisions affect reliability, performance isolation, and the long-term sustainability of platforms used by real users and research communities.
 
-**Research Interests**
+Through professional work, I have gained hands-on experience with cloud-native systems, Kubernetes-based platforms, infrastructure automation, and observability. I approach these tools as a way to study system behavior rather than as an end in themselves, with an emphasis on correctness, reproducibility, and responsible resource usage.
+
+I am currently **seeking PhD opportunities in Computer Science**, with a focus on **systems research, distributed systems, parallel computing, and computer organization & architecture (COA)**. My goal is to pursue long-term research that contributes both to the academic community and to practical computing infrastructure.
+
+- 📄 **Curriculum Vitae:**  
+  https://drive.google.com/file/d/12qUnmMKOjljV60vYqCtAPeCQMPSfguFJ/view  
+
+- 🔬 **Research & Projects:**  
+  https://drive.google.com/file/d/15DyrDj1g03ctIj1KJVWtUB-VBPemOJdU/view  
+
+---
+
+## Research Interests
+
 - Distributed systems and cloud platforms  
-- Kubernetes and ML systems (Kubeflow)  
-- Infrastructure-as-Code and DevOps automation  
-- Governance and resource management for ML platforms  
+- Parallel computing and shared infrastructure  
+- Orchestration layers  
+- Resource management and isolation in multi-tenant systems  
+- Systems support for machine learning platforms  
 
 ---
 
-## News
+## Teaching Experience
 
-- **Jan 2026** — Paper *Kubernetes-Powered Machine Learning Facility-as-a-Service*
-  under review.  
-- **Oct 2025** — Joined AppLab Qatar as Cloud & DevOps Engineer (Onsite).  
-- **Jun 2025** — Completed Teaching Assistant role at Primus Learning (Remote, US).  
-- **Sept 2023** — Completed research internship at National Centre for Physics (NCP),
-  Islamabad.  
+**Teaching Assistant — Primus Learning (Remote, US)**  
+Supporting instruction and mentoring in computer science–related coursework.  
+Reference: https://drive.google.com/file/d/1zM_2k1ZWaLyvjQhLqScKt3U0dh6mFG4R/view  
 
 ---
-
 
 ## Publications
 
-**Kubernetes-Powered Machine Learning Facility-as-a-Service:
+**Kubernetes-Powered Machine Learning Facility-as-a-Service:  
 Design, Deployment, and Evaluation**  
-Status: Under Review  
+*Status:* Under Review  
 
 **How AI Supports Knowledge Sharing and Management in Educational Institutions**  
-Status: Published  
+*Status:* Published  
 
 ---
 
-## Projects
+## Experience & Academic Activities
+
+- **Jan 2026** — Research paper under review on Kubernetes-based multi-tenant ML systems  
+- **Oct 2025** — Cloud & DevOps Engineer, AppLab Qatar (Onsite)  
+- **Jun 2025** — Teaching Assistant, Primus Learning (Remote, US)  
+- **Sept 2023** — Research Intern, National Centre for Physics (NCP), Islamabad  
+
+---
+
+## Selected Project
 
 ### DeepCare — Multi-Disease Screening Platform  
-*TensorFlow, scikit-learn, Flask*
+*TensorFlow, scikit-learn, Flask*  
+Project slides:  
+https://docs.google.com/presentation/d/1FwHrKvooXxqTOK7MmE8j0ojdDtiyhOpKXk4_atrbQR8/edit  
 
-- Designed a healthcare ML platform supporting both tabular and imaging data.  
-- Implemented disease-specific workflows with optional result storage.  
-- Applied classical machine learning for structured data and deep learning for images.  
-- Evaluated models using accuracy, precision, recall, F1-score,
-  and confusion matrices.  
-
----
-
-
-## Technical Skills
-
-**Languages:** Python, Go, SQL  
-**Technologies:** Kubernetes, Kubeflow, Docker, AWS, Azure, Terraform  
-**CI/CD & Tools:** GitHub Actions, Azure DevOps, Git, Linux  
-**Databases:** MySQL, PostgreSQL, DynamoDB  
+- Designed and implemented a machine learning platform supporting both structured and imaging data  
+- Studied workflow separation and model evaluation across disease-specific pipelines  
+- Evaluated models using accuracy, precision, recall, and F1-score  
+- Emphasized reproducibility and clear separation between data, models, and inference logic  
 
 ---
 
-© 2026 Muhammad Shaheer  
-All rights reserved.
+## Technical Background
+
+- **Languages:** Python, Go, SQL  
+- **Systems & Platforms:** Kubernetes, Kubeflow, Docker, AWS, Azure  
+- **Infrastructure:** Terraform, CI/CD pipelines, Linux  
+- **Data Systems:** MySQL, PostgreSQL, DynamoDB  
+
+---
+
+© 2026 Muhammad Shaheer
