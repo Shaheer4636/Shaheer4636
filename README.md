@@ -9,11 +9,8 @@ muhammadshaheer4636@gmail.com
 
 ## About
 
-I am a computer science graduate with a background in cloud systems and infrastructure engineering, and a strong interest in research-driven systems work. I completed my Bachelor’s degree in Computer and Information Sciences from the Pakistan Institute of Engineering and Applied Sciences (PIEAS), where my focus gradually shifted from application development toward understanding how large systems behave, scale, and fail.
+I am a computer science graduate with a background in cloud systems and infrastructure engineering, and a strong interest in research-driven systems work. I completed my Bachelor’s degree in Computer and Information Sciences from the Pakistan Institute of Engineering and Applied Sciences (PIEAS - Ranked 386 in QS 2015).
 
-My work and research interests lie in distributed systems, orchestration layers, and parallel computing, particularly in the context of shared and multi-tenant computing environments. I am interested in how system design decisions affect reliability, performance isolation, and the long-term sustainability of platforms used by real users and research communities.
-
-Through professional work, I have gained hands-on experience with cloud-native systems, Kubernetes-based platforms, infrastructure automation, and observability. I approach these tools as a way to study system behavior rather than as an end in themselves, with an emphasis on correctness, reproducibility, and responsible resource usage.
 
 I am currently **seeking PhD opportunities in Computer Science**, with a focus on **systems research, distributed systems, parallel computing, and computer organization & architecture (COA)**. My goal is to pursue long-term research that contributes both to the academic community and to practical computing infrastructure.
 
