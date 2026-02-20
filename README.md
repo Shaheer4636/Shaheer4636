@@ -24,9 +24,9 @@ I am currently **seeking PhD opportunities in Computer Science**, with a focus o
 
 ## Research Interests
 
-- Distributed systems and cloud platforms  
+- Distributed systems and cloud platforms
+- Threat analysis, intrusion detection and cloud security
 - Parallel computing and shared infrastructure  
-- Orchestration layers  
 - Resource management and isolation in multi-tenant systems  
 - Systems support for machine learning platforms  
 
@@ -50,6 +50,9 @@ Design, Deployment, and Evaluation**
 *Status:* Published  
 
 ---
+
+**News**
+*Microsoft Azure Credits:* Microsoft Azure awarded $5,000 in cloud credits to support the development of experimental tools and systems.
 
 ## Experience & Academic Activities
 
@@ -76,7 +79,7 @@ https://docs.google.com/presentation/d/1FwHrKvooXxqTOK7MmE8j0ojdDtiyhOpKXk4_atrb
 
 ## Technical Background
 
-- **Languages:** Python, Go, SQL  
+- **Languages:** Python, Go, SQL, C/C++, Bash scripting  
 - **Systems & Platforms:** Kubernetes, Kubeflow, Docker, AWS, Azure  
 - **Infrastructure:** Terraform, CI/CD pipelines, Linux  
 - **Data Systems:** MySQL, PostgreSQL, DynamoDB  
